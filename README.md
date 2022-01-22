@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anaximiandra Oliveira a Java mobile Developer
+- 👋 Hi, I’m Anaximiandra Oliveira a Java Mobile Developer
 - 👀 I’m interested in becomming a JAVA FullStack ...
 - 🌱 I’m currently learning JAVA web (Static Web with HTML5 and CSS3 
 Dynamic Web with JavaScript/TypeScript ) JSE and JEE 
