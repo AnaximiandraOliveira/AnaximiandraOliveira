@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Anaximiandra Oliveira a Java Mobile Developer
-- 👀 I’m interested in becomming a JAVA FullStack ...
+- 👋 Hi, I’m Anaximiandra Oliveira, Nashy for most! 
+- I am a Computer Science Engineer and a Software Developer in Java 
+- 👀 I’m interested in becomming a JAVA FullStack & a PenTester...
 - 🌱 I’m currently learning JAVA web (Static Web with HTML5 and CSS3 
 Dynamic Web with JavaScript/TypeScript ) JSE and JEE 
 - 💞️ I’m looking to collaborate on anything that will help me be a better developer...
--
 
 
 <div align="center">
