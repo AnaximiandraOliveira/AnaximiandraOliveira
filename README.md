@@ -2,7 +2,7 @@
 - I am a Computer Science Engineer and a Software Developer in Java 
 - 👀 I’m interested in becomming a JAVA FullStack & a PenTester...
 - 🌱 I’m currently learning JAVA web (Static Web with HTML5 and CSS3 Dynamic Web with JavaScript/TypeScript ) JSE and JEE 
-- I also like to have fun with C# and ASP.Net in Unity and some other basic stuff
+- I also like to have fun with C#, ASP.Net and Unity
 - 💞️ I’m looking to collaborate on anything that will help me be a better developer...
 
 
