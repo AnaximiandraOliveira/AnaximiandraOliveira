@@ -27,7 +27,8 @@
   <a href = "mailto:anaximiandra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anaximiandra-oliveira-21a1391b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqIn1jJ5NR3yyljKANy3kpw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
-  
- 
 </div>
+  
+  <p align="center"> Total de Visitas no Perfil </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AnaximiandraOliveira/count.svg" /></p>
+
