@@ -32,3 +32,4 @@
   <p align="center"> Total de Visitas no Perfil </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AnaximiandraOliveira/count.svg" /></p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="24a74418-b904-454b-8f82-47b8c05f20c7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
