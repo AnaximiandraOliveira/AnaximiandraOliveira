@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anaximiandra Oliveira, but call me Nashy! 
 - I am a Computer Science Engineer and a Software Developer in Java 
 - 👀 I’m interested in becomming a FullStack Developer & a PenTester...
-- 🌱 I’m currently learning JAVA SE 11 and JEE 7 in Rumos Academy in Lisbon
+- 🌱 I’m currently doing my master's degree in software engineering at IPS
 - I also like to have fun with C#, ASP.Net and Unity
 - 💞️ I’m looking to collaborate on anything that will help me be a better developer...
 
